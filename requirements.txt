@@ -1,0 +1,6 @@
+Django~=5.1.2
+requests~=2.32.3
+redis
+django_redis
+gunicorn
+python-dotenv
